@@ -14,7 +14,3 @@ Get all the gems and bring the princess to the starting point.
 5. Player hits the bugs with princess will go back to the river.
 6. Display victory screen when win.
 7. _There is no lose situation, all you need to do is get the princess out of risk._
-
-##External js file
-[javascript-state-machine from jakesgordon](https://github.com/jakesgordon/javascript-state-machine).
-
